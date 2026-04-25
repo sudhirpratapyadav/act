@@ -1,0 +1,10 @@
+{
+  "batch_size": 64,
+  "total_steps": 30000,
+  "lr": 1e-05,
+  "lr_backbone": 1e-05,
+  "weight_decay": 0.0001,
+  "chunk_size": 100,
+  "n_action_steps": 100,
+  "device": "cuda"
+}

@@ -1,0 +1,20 @@
+[project]
+name = "act"
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = [
+    "av>=17.0.1",
+    "einops>=0.8.2",
+    "h5py>=3.16.0",
+    "imageio[ffmpeg]>=2.37.3",
+    "lerobot>=0.3.2",
+    "matplotlib>=3.10.9",
+    "robosuite",
+    "tensorboard>=2.20.0",
+    "torch>=2.11.0",
+    "torchvision>=0.26.0",
+    "transformers>=5.6.2",
+]
+
+[tool.uv.sources]
+robosuite = { git = "https://github.com/ARISE-Initiative/robosuite.git", rev = "v1.5.1" }

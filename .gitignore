@@ -1,0 +1,20 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.python-version
+.uv/
+
+# intermediate ACT checkpoints — too big for GitHub (198 MB each)
+# and trivially regeneratable. Only `last/` is committed (via Git LFS).
+checkpoints/**/step_*/
+
+# scratch outputs
+outputs/
+wandb/
+
+# editor / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store

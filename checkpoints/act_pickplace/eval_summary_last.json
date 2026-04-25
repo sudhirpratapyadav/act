@@ -1,0 +1,259 @@
+{
+  "checkpoint": "/home/linux5/sudhir/act/checkpoints/act_pickplace/last",
+  "num_episodes": 50,
+  "horizon": 250,
+  "success_rate": 0.96,
+  "successes": 48,
+  "per_episode": [
+    {
+      "episode": 0,
+      "success": true,
+      "steps": 85
+    },
+    {
+      "episode": 1,
+      "success": false,
+      "steps": 250
+    },
+    {
+      "episode": 2,
+      "success": true,
+      "steps": 83
+    },
+    {
+      "episode": 3,
+      "success": true,
+      "steps": 74
+    },
+    {
+      "episode": 4,
+      "success": true,
+      "steps": 78
+    },
+    {
+      "episode": 5,
+      "success": true,
+      "steps": 79
+    },
+    {
+      "episode": 6,
+      "success": true,
+      "steps": 81
+    },
+    {
+      "episode": 7,
+      "success": true,
+      "steps": 77
+    },
+    {
+      "episode": 8,
+      "success": true,
+      "steps": 79
+    },
+    {
+      "episode": 9,
+      "success": true,
+      "steps": 81
+    },
+    {
+      "episode": 10,
+      "success": true,
+      "steps": 81
+    },
+    {
+      "episode": 11,
+      "success": true,
+      "steps": 84
+    },
+    {
+      "episode": 12,
+      "success": true,
+      "steps": 76
+    },
+    {
+      "episode": 13,
+      "success": true,
+      "steps": 82
+    },
+    {
+      "episode": 14,
+      "success": true,
+      "steps": 79
+    },
+    {
+      "episode": 15,
+      "success": true,
+      "steps": 80
+    },
+    {
+      "episode": 16,
+      "success": true,
+      "steps": 85
+    },
+    {
+      "episode": 17,
+      "success": true,
+      "steps": 83
+    },
+    {
+      "episode": 18,
+      "success": true,
+      "steps": 80
+    },
+    {
+      "episode": 19,
+      "success": true,
+      "steps": 78
+    },
+    {
+      "episode": 20,
+      "success": true,
+      "steps": 84
+    },
+    {
+      "episode": 21,
+      "success": true,
+      "steps": 82
+    },
+    {
+      "episode": 22,
+      "success": false,
+      "steps": 250
+    },
+    {
+      "episode": 23,
+      "success": true,
+      "steps": 82
+    },
+    {
+      "episode": 24,
+      "success": true,
+      "steps": 76
+    },
+    {
+      "episode": 25,
+      "success": true,
+      "steps": 82
+    },
+    {
+      "episode": 26,
+      "success": true,
+      "steps": 79
+    },
+    {
+      "episode": 27,
+      "success": true,
+      "steps": 77
+    },
+    {
+      "episode": 28,
+      "success": true,
+      "steps": 80
+    },
+    {
+      "episode": 29,
+      "success": true,
+      "steps": 75
+    },
+    {
+      "episode": 30,
+      "success": true,
+      "steps": 82
+    },
+    {
+      "episode": 31,
+      "success": true,
+      "steps": 84
+    },
+    {
+      "episode": 32,
+      "success": true,
+      "steps": 82
+    },
+    {
+      "episode": 33,
+      "success": true,
+      "steps": 84
+    },
+    {
+      "episode": 34,
+      "success": true,
+      "steps": 84
+    },
+    {
+      "episode": 35,
+      "success": true,
+      "steps": 78
+    },
+    {
+      "episode": 36,
+      "success": true,
+      "steps": 79
+    },
+    {
+      "episode": 37,
+      "success": true,
+      "steps": 85
+    },
+    {
+      "episode": 38,
+      "success": true,
+      "steps": 80
+    },
+    {
+      "episode": 39,
+      "success": true,
+      "steps": 82
+    },
+    {
+      "episode": 40,
+      "success": true,
+      "steps": 85
+    },
+    {
+      "episode": 41,
+      "success": true,
+      "steps": 77
+    },
+    {
+      "episode": 42,
+      "success": true,
+      "steps": 81
+    },
+    {
+      "episode": 43,
+      "success": true,
+      "steps": 83
+    },
+    {
+      "episode": 44,
+      "success": true,
+      "steps": 82
+    },
+    {
+      "episode": 45,
+      "success": true,
+      "steps": 82
+    },
+    {
+      "episode": 46,
+      "success": true,
+      "steps": 77
+    },
+    {
+      "episode": 47,
+      "success": true,
+      "steps": 81
+    },
+    {
+      "episode": 48,
+      "success": true,
+      "steps": 84
+    },
+    {
+      "episode": 49,
+      "success": true,
+      "steps": 84
+    }
+  ]
+}
